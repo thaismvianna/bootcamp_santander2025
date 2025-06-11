@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página - Módulo I - Primeiros Passos com HTML</title>
+</head>
+<body>
+    <h1>Módulo 1 - Primeiros Passos com HTML</h1>
+    <hr>
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#personalidades">Personalidades que fizeram história na TI</a></li>
+        <li><a href="#diferenca">Diferença entre clients e servers</a></li>
+        <li><a href="#estrutura">Como é uma estrutura básica de um HTML?</a></li>
+        <li><a href="#referencias">Links de referências</a></li>
+    </ul>
+
+    <h2 id="personalidades">Personalidades que fizeram história na TI</h2>
+    <h3>Ada Lovelace</h3>
+    <p>
+        <mark>Conhecida como a primeira programadora da história</mark>, Augusta Ada Bryon King, mais conhecida como <strong>Ada Lovelace</strong>, nasceu em Londres na Inglaterra. Ela foi uma escritora e matemática, sendo a responsável por escrever o primeiro algoritmo de computador da história. Apesar de um núcleo familiar conturbado, Ada se manteve estudiosa e aplicada na área da matemática. Seus esforços criaram uma conexão de trabalho e amizado com o matemático Charles Menabrea e com isso, firmou os estudos sobre a <i>Máquina Analítica</i>. Estudo esse avançou até ser escrito um algoritmo para que a máquina pudesse computar a sequência de Bernoulli. Essa realização positiva fez com que a academia científica reconhecesse como o primeiro programa de computador da história. 
+    </p>
+    <blockquote>
+        "A <sup>Máquina Analítica</sup> não tem pretensão de originar nada. Ela pode fazer qualquer coisa que soubermos ordenar a ela que realize." - Ada Lovelace
+    </blockquote>
+    
+    <h3>Charles Babbage</h3>
+    <p>
+        Charles foi um importante cientista da computação. <mark>Reconhecido como o criador do primeiro computador do mundo, a Máquina Analítica.</mark> Esse feito com realizado em conjunto com Ada Lovelace. 
+        Babbage também era formado em áreas como filosofia, engenharia mecânia e matemática. Ele foi eleito <strong>membro da Royal Sciety of Londres</strong> que é um título concedido a cientistas notáveis. Além da criação da <i>Máquina Analítica</i> e da <i>Máquina Diferencial</i>, ele também contribui em diversas outras áreas como saúde, administração, economia, educação. 
+    </p>
+
+    <h3>Alan Turing</h3>
+    <p>
+        Matemático inglês, <mark>Alan Turing é conhecido como o pai da computação.</mark> Ele foi um dos primeiros a pensar na possibilidade de que uma máquina poderia se tornar uma inteligência e criou um modelo teórico para um computador universal. Trabalhou na Segunda Guerra Mundial, ao lado dos britânicos em um <del>centro de inteligência</del> especializado em quebra de códigos. Ele desenvolveu um sistema para traduzir os códigos dos alemães, conhecido como <i>bombe</i>. Essa codificação transformava em mensagens claras e precisas. 
+        Alan também desenvolveu o <strong>Teste de Turing</strong>, que foi criado com o objetivo de verificar se o computador era capaz de imitar e pensar como o cérebro humano. O teste consistia em pedir a uma pessoa que mandasse uma série de perguntas para o computador e depois de analisar as respostas dadas por ele, tentar diferenciar se a resposta foi elaborada pelo ser humano ou pelo computador. 
+    </p>
+
+    <h2 id="diferenca">Diferença entre clients e servers</h2>
+    <p>
+        A comunicação dentro da internet é baseada no modelo chamado de <sub>client e server</sub>. A diferença mais óbvia é que o client está consumindo os serviços disponíveis na rede e o server é o que hospeda esses serviços. 
+        <br>
+        <u>Client</u>: Pode ser um computador, dispositivo, software, aplicação que faz uma requisição para o server. 
+        <br>
+        <u>Server:</u> É um computador ou dispositivo que fornece recursos, serviços ou conteúdos para os clients.
+        <br> 
+        Exemplo: 
+        <br>
+        <font color="#808080">Client</font> - Um navegador web ao solicitar uma página da web.
+        <br>
+        <font color="#808080">Server</font> - Um servidor web ao hospedar um site. 
+    </p>
+
+    <h2 id="estrutura">Como é uma estrutura básica de um HTML?</h2>
+    <p>
+        O documento <abbr title="HyperText Markup Language">HTML</abbr> <small>sempre</small> deve iniciar com uma estrutura básica. Tem alguns editores de texto, como por exemplo o vs code que já tem pré configuração automática dessa estrutura, para poder agilizar o processo de trabalho. 
+        A estrutura básica se inicia como:
+        <pre><code>
+        &lt;!DOCTYPE html&gt;
+        &lt;html lang="pt-br"&gt;
+        &lt;head&gt;
+            &lt;meta charset="utf-8"&gt;
+            &lt;title&gt;Título da página&lt;/title&gt;
+        &lt;/head&gt;
+        &lt;body&gt;
+            Aqui vai o código HTML que fará seu site aparecer.
+        &lt;/body&gt;
+        &lt;/html&gt;
+        </code></pre>
+
+        <strong>A divisão fica como: </strong>
+        <br>
+        Doctype(documento) = É uma instrução para o navegador poder ler seu site com os códigos corretos. 
+        <br>
+        Head(cabeça) = São informações que o usuário vê visualmente. 
+        <br>
+        Body(corpo) = É o documento em si. A informação que o usuário vai ver legível. 
+    </p>
+
+    <h2 id="referencias">Referências</h2>
+    <ul>
+        <li><a href="https://www.dio.me" target="_blank">https://www.dio.me</a></li>
+        <li><a href="https://www.w3.org" target="_blank">https://www.w3.org</a></li>
+        <li><a href="https://www.ufmg.br/espacodoconhecimento/ada-lovelace-a-primeira-programadora-da-historia/" target="_blank">
+            Ada Lovelace – Primeira Programadora da História (UFMG)
+        </a></li>
+        <li><a href="https://wiki.inf.ufpr.br/computacao/doku.php?id=c:charles_babbage" target="_blank">
+            Charles Babbage – UFPR Wiki
+        </a></li>
+        <li><a href="https://www.invivo.fiocruz.br/historia/alan-turing-o-pai-da-computacao/" target="_blank">
+            Alan Turing – O Pai da Computação (Fiocruz)
+        </a></li>
+    </ul>
+ 
+</body>
+</html>
