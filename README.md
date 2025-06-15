@@ -8,7 +8,7 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
 
 ## 🧪 Projetos em Andamento
 
-### 📄 [pagina-html](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/pagina-html)
+### [pagina-html](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/pagina-html)
 
 > **Tema**: Criação de uma página web com HTML puro, explorando ao máximo as tags estudadas em aula.
 
@@ -21,7 +21,7 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
 
 ---
 
-### 📚 [kikipedia](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/kikipedia)
+### [kikipedia](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/kikipedia)
 
 > **Tema**: Recriação de uma página tipo Wikipedia com layout moderno e conteúdo sobre o filme *O Serviço de Entregas da Kiki*.
 
@@ -31,6 +31,14 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
 - Navegação lateral, âncoras e organização visual para simular uma mini enciclopédia
 
 ---
+
+### [landing-page](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/landing-page)
+
+> **Tema**: Recriação de uma landing page sobre a Trilha de CSS da DIO.
+
+- Projeto realizado para ser o mais fiel possível a versão original
+- Uso de HTML e CSS
+- Foco no design e em utilizar os fundamentos de CSS
 
 ## 🌱 Outros Projetos Relacionados
 
