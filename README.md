@@ -40,6 +40,23 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
 - Uso de HTML e CSS
 - Foco no design e em utilizar os fundamentos de CSS
 
+---
+
+### [youtube](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/youtube)
+
+> **Tema**: Clone da página inicial do YouTube com redesign temático sobre **Mulheres Fantásticas** (TV Globo), destacando Ada Lovelace.
+
+- **Recriação** da UI do YouTube com:
+  - Estrutura semântica HTML
+  - CSS Flexbox para layouts dinâmicos
+- **Tema personalizado**:
+  - Thumbnails e conteúdo sobre mulheres pioneiras na tecnologia
+  - Player com vídeo dedicado a Ada
+- **Destaque técnico**:
+  - Sistema de grid com `display: flex`
+  - Barra de navegação fixa
+  - Cards de vídeos relacionados
+
 ## 🌱 Outros Projetos Relacionados
 
 ### 🤝 [dio-lab-open-source](https://github.com/thaismvianna/dio-lab-open-source)
