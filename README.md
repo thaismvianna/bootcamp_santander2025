@@ -56,6 +56,19 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
   - Sistema de grid com `display: flex`
   - Barra de navegação fixa
   - Cards de vídeos relacionados
+ 
+### [discord](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/discord)
+
+> **Tema**: Clone responsivo da página inicial do Discord.
+
+- Projeto fiel a estrutura original com **adaptações visuais**
+- Desenvolvimento com foco em:
+  - **Responsividade completa** (mobile/desktop)
+  - **Menu hambúrguer**
+  - Código semântico e organizado
+  - Imagens otimizadas para web
+
+---
 
 ## 🌱 Outros Projetos Relacionados
 
