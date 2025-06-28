@@ -67,6 +67,19 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
   - **Menu hambúrguer**
   - Código semântico e organizado
   - Imagens otimizadas para web
+ 
+### [Classificador de Herói](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/classificador-heroi)
+
+> **Tema**: Projeto puro em JavaScript que classifica um herói em diferentes níveis com base em sua experiência (XP).
+
+- **Requisitos**
+  - Variáveis
+  - Operadores
+  - Estruturas de decisão (`if/else`)
+
+- **Objetivo**
+  - Classificar heróis em níveis conforme sua experiência:
+    - **Níveis:** Ferro | Bronze | Prata | Ouro | Platina | Ascendente | Imortal | Radiante
 
 ---
 
