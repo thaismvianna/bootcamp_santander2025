@@ -80,6 +80,17 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
 - **Objetivo**
   - Classificar heróis em níveis conforme sua experiência:
     - **Níveis:** Ferro | Bronze | Prata | Ouro | Platina | Ascendente | Imortal | Radiante
+   
+### [Portfólio](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/portfolio)
+
+> **Tema**: Projeto para criação de um Portfólio pessoal que seja responsivo e funcional.
+
+- **Tecnologias:** HTML, CSS, JavaScript
+- **Funcionalidades:**
+  - Modo claro/escuro
+  - Cards de projetos
+  - Responsivo
+  - Links de contato
 
 ---
 
