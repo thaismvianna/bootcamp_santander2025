@@ -91,6 +91,20 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
   - Cards de projetos
   - Responsivo
   - Links de contato
+ 
+### [Pokédex](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/pokedex)
+
+> **Tema**: Criação de uma listagem dinâmica de Pokémons integrando com a PokeAPI.
+
+- Projeto responsivo para todos tipos de telas
+- Integração completa com a PokeAPI para listagem dinâmica
+- Tecnologias utilizadas:
+  - HTML5 semântico
+  - CSS3 com Grid e Flexbox
+  - JavaScript assíncrono (fetch API)
+- Funcionalidades:
+  - Paginação automática (Load More)
+  - Design responsivo para todos os dispositivos
 
 ---
 
