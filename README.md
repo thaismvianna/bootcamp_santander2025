@@ -105,6 +105,21 @@ A proposta do bootcamp é dominar a **trinca fundamental do Front-End** — **HT
 - Funcionalidades:
   - Paginação automática (Load More)
   - Design responsivo para todos os dispositivos
+ 
+### [Yu-Gi-Oh!](https://github.com/thaismvianna/bootcamp_santander2025/tree/main/projetos/yu-gi-oh)
+
+> **Tema**: Jogo de cartas no estilo jokenpô inspirado no universo Yu-Gi-Oh!
+
+- Projeto interativo baseado nas regras clássicas do jokenpô com temática de duelos de monstros
+- Design responsivo com elementos visuais temáticos
+- Tecnologias utilizadas:
+  - HTML5 semântico
+  - CSS3 com Flexbox e animações
+  - JavaScript para lógica do jogo
+- Funcionalidades:
+  - Sistema de batalha carta vs carta (Monstro > Magia > Armadilha > Monstro)
+  - Contador de placar (vitórias/derrotas/empates)
+  - Feedback visual imediato dos resultados
 
 ---
 
